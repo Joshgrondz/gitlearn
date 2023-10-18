@@ -6,5 +6,6 @@ public class prog
 		System.out.println("hello there");
 		System.out.println("GobStop");
 		System.out.println("Augie Is Stupid");
+		System.out.println("Josh is a stupider head");
 	}
 }
